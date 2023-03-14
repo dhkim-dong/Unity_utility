@@ -9,7 +9,7 @@ Unity 기술 구현 모음
 :bulb:   Git-구성
 ------------------------
 * 룰렛을 회전시켜 랜덤 Data 정보 출력하기.
-출처 : 고박사의 유니티 노트[유니티 룰렛 시스템] 
+<br/> 출처 : 고박사의 유니티 노트[유니티 룰렛 시스템] 
 <br/> https://www.youtube.com/watch?v=L4tVAWcWHbs
 
 :nail_care: README.md Version ManageMent
